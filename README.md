@@ -1,1 +1,1 @@
-A simple Todo list app built with React.
+A simple Todo list app built on React.
